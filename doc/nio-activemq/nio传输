@@ -1,0 +1,2 @@
+nio适合大部分client连接
+<transportConnector name="nio" uri="nio://localhost:61618?trace=true" />
